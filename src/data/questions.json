@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est la somme des angles d'un triangle ?",
+      "options": ["180°", "360°", "90°", "270°"],
+      "correctAnswer": "180°",
+      "difficulty": "easy",
+      "category": "triangles"
+    },
+    {
+      "id": 2,
+      "question": "Dans un triangle rectangle, comment s'appelle le côté le plus long ?",
+      "options": ["Hypoténuse", "Cathète", "Base", "Hauteur"],
+      "correctAnswer": "Hypoténuse",
+      "difficulty": "easy",
+      "category": "triangles"
+    },
+    {
+      "id": 3,
+      "question": "Quelle est l'aire d'un carré de côté 5 cm ?",
+      "options": ["25 cm²", "20 cm²", "10 cm²", "15 cm²"],
+      "correctAnswer": "25 cm²",
+      "difficulty": "medium",
+      "category": "aires"
+    }
+  ]
+}
